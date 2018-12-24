@@ -1,0 +1,31 @@
+{
+    "wechat": {
+        "workid":"your workid",
+        "secret":"your secret",
+        "agentid":1000000000000
+    },
+    "stock": {
+        "time": {
+            "us": {
+                "start":"1111",
+                "end":"22222"
+            },
+            "hk":{
+                "start":"3333",
+                "end":"4444"
+            }
+        },
+        "list": [
+            {
+                "name": "US_BILI",
+                "expect_in": 12,
+                "expect_out": 16
+            },
+            {
+                "name": "US_BILI",
+                "expect_in": 12,
+                "expect_out": 16
+            }
+        ]
+    }
+}
