@@ -1,0 +1,5 @@
+package: wechat
+import:
+- package: github.com/robfig/cron
+  version: ^1.1.0
+- package: github.com/dyike/httpClient
